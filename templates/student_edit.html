@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+   <body>
+     <table border = 1>
+         <thead>
+            <TD>Number</TD>
+            <td>Item</td>
+
+
+         </thead>
+
+         {% for row in rows %}
+            <tr>
+                 <td>{{row["itemId"]}}</td>
+               <td>{{row["itemList"]}}</td>
+
+            </tr>
+         {% endfor %}
+      </table>
+
+
+
+     <form action = "{{ url_for('student_update') }}" method = "POST">
+         <h3>Student Information</h3>
+         Number<br>
+         <input type = "number" name = "itemId"  required/></br>
+
+         Item<br>
+         <input type = "text" name = "replaceItem" required/><br>
+         <input type = "submit" value = "submit" /><br>
+      </form>
+
+   </body>
+</html>
