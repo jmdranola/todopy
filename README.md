@@ -1,4 +1,7 @@
 # todopy
+<b><i>Status: Under Development</i></b>
+<p>Updates will be posted in the readme section.</p>
+<br>
 A simple web application of To Do List using Python.
 <br>
 <br>
