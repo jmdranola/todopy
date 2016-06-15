@@ -22,3 +22,6 @@ Abad, Gel <br>
 Biado, Diosa Bianca<br>
 Ortega, Gerald<br>
 Ranola, Jona Marie<br>
+<hr />
+<p>UPDATES</p>
+<p><b>Update No. 1: </b> Functions like add, delete and insert has been added using python, database and HTML. - June 13, 2016</p>
