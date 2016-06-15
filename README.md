@@ -17,7 +17,7 @@ For the live demo: (Deployment)<br>
 <i>Soon</i>
 <br>
 <br>
-Members<br>
+<b>Members</b><br>
 Abad, Gel <br>
 Biado, Diosa Bianca<br>
 Ortega, Gerald<br>
