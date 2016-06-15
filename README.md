@@ -6,7 +6,7 @@ A simple web application of To Do List using Python.
 <br>
 <br>
 <b>Title</b>
-<b>To Do List : Web Application using Python </b>
+<p><b>To Do List : Web Application using Python </b></p>
 <br>
 <br>
 <b>Modules Included: </b>
