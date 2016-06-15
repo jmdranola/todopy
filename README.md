@@ -25,4 +25,5 @@ Ranola, Jona Marie<br>
 <hr />
 <p>UPDATES</p>
 <p><b>Update No. 1: </b> Function like add has been added in the application with the use python and HTML. - June 13, 2016</p>
-<p><b>Update No. 2: </b> Function like add has been added in the application with the use python, JQUERY AJAX, SQL, and HTML. - June 15, 2016</p>
+<p><b>Update No. 2: </b>1. Function like add has been added in the application with the use python, JQUERY AJAX, SQL, and HTML. - June 15, 2016</p>
+<p>2. Minor Changes: - Fixed link to readme.html from todolist.html & vice versa</p>

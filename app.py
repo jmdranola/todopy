@@ -107,5 +107,9 @@ def delete():
 			return render_template("todolist.html", rows = rows)
          	con.close()
 
+@app.route('/readme')
+def readme():
+	return render_template("readme.html")
+
 if __name__ == "__main__":
     app.run()
