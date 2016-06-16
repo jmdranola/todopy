@@ -14,7 +14,7 @@ A simple web application of To Do List using Python.
 <br>
 <br>
 For the live demo: (Deployment)<br>
-<i>Soon</i>
+<i>http://pylist-todopy.rhcloud.com/todolist</i>
 <br>
 <br>
 <b>Members</b><br>
